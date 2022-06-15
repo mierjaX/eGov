@@ -6,7 +6,7 @@
 </a>
 <br><br><br>
 <div class="header">
-    COVID-19 Hari Ini di Jatim, Kasus Aktif Terus Turun Hingga 90 Persen
+    COVID-19 Hari Ini di Jatim, Kasus Aktif Terus Turun Hingga 90 Persens
 </div>
 
 <div style="margin-left:40px; margin-bottom: 20px; margin-top:50px; color:white">
