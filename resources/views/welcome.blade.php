@@ -5,7 +5,7 @@
         PUSAT INFORMASI <br>PROVINSI JAWA TIMUR
     </h2>
     <div style="border-radius:30px; background-color:white;padding:15px;padding-left:25px">
-        Masukkan Keyword anda
+        <input type="text" style="border:none ;width:370px">
         <div style="float:right">
         <form action="/search">
         <button style="border:0;background-color:white;"> <img src="{{ asset('img/logoCari.png') }}" width="25px"> </button> </form>
