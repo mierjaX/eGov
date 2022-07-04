@@ -6,26 +6,26 @@
 </a>
 <br><br><br>
 <div class="header">
-    Unesa Raih Rekor MURI Kerja Sama Terbanyak dengan 837 SMK se-Jatim
+    Jatim Perbolehkan SMA 20 Kabupaten/Kota Belajar Tatap Muka
     <p style="opacity: 75%; font-size:15px; margin-left:3px">31-Mei-2022</p>
 </div>
 
 <div style="margin-left:55px; margin-bottom: 20px; margin-top:50px; color:white;">
-    <img src="{{ asset('img/terkini2.jpeg') }}" width="500px">
+    <img src="{{ asset('img/pendidikan6.jpeg') }}" width="500px">
         <br>
-        Unesa raih Rekor MURI (Foto: Esti Widiyana/detikcom)
+        Pembelajaran tatap muka di sekolah boleh dilakukan di daerah yang menerapkan PPKM Level 3
 </div>
 <div class="container">
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis sem sit amet maximus tristique. Phasellus vitae malesuada purus. Suspendisse vel ullamcorper leo. Integer rutrum dui a ante gravida porta. Sed tellus erat, rhoncus et odio condimentum, rhoncus placerat sem. Fusce sed semper orci, eu lacinia enim. Maecenas ut dui et turpis venenatis mattis a ac felis. Nunc non iaculis magna. Nulla eget leo eu nulla egestas egestas. Phasellus eu maximus metus.    <br>
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque adipisci animi cupiditate inventore, consequatur necessitatibus optio quidem voluptas nulla, iure in voluptatibus, natus magnam provident soluta. Suscipit necessitatibus veritatis tempore, dolore consequuntur consectetur harum repellat similique, impedit doloremque earum numquam. Perferendis beatae facere omnis id tempora saepe repellat deserunt eveniet, debitis exercitationem maiores quo odit libero nulla itaque, fugiat earum nesciunt expedita, aliquam iure? Harum, nam a quidem repudiandae laborum nemo dolore quos, deserunt ex possimus atque. Quidem voluptates assumenda necessitatibus atque unde? Deleniti officia quos, similique explicabo quibusdam unde esse at nesciunt totam quasi eos labore, nam sapiente fugit. adipiscing elit. Proin tristique mattis molestie. Aenean interdum ante nec lobortis finibus. Curabitur dictum ullamcorper dignissim. Quisque sed cursus erat, non imperdiet est. Vestibulum et libero ornare, molestie ligula et, vehicula nulla. Nulla facilisi. In at nulla sit amet nibh elementum tempor. Aliquam vel tortor purus. Ut mauris est, ornare vel egestas eget, aliquam quis diam. Nulla metus magna, fermentum ac luctus eget, volutpat quis urna. Nam vehicula elit eu ligula cursus molestie. Mauris sit amet odio convallis, lobortis orci quis, volutpat justo. Praesent nec odio erat. In hendrerit nunc libero, nec vulputate mauris ullamcorper nec. Aliquam sodales mi eget felis suscipit, in maximus mi dignissim. Suspendisse id euismod libero, at iaculis mauris.
     <br>
-    Cras porttitor orci et ante porttitor, sit amet vestibulum libero rutrum. Etiam viverra risus vel imperdiet semper. Nullam in orci euismod, cursus diam non, pharetra felis. Quisque blandit iaculis justo, sed bibendum tellus tristique sed. Quisque in mi justo. Praesent nunc ligula, interdum sit amet augue id, cursus pretium nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In hac habitasse platea dictumst. Donec convallis non lectus id laoreet. Vestibulum non erat et eros posuere mollis. Vivamus commodo malesuada turpis a facilisis. Aenean auctor nisl lectus, vitae placerat ligula fringilla vitae. Quisque quis elit nec dolor laoreet tincidunt. Integer laoreet, dolor a maximus luctus, purus nisi blandit ligula, ac aliquet velit metus ut sapien. Nulla gravida consequat velit, fringilla euismod diam finibus eget. Ut feugiat felis eu molestie lobortis.
+    <br>
+    Aliquam nec tortor quis orci commodo cursus. Ut tristique ultricies justo. Praesent suscipit turpis in nisi laoreet interdum. Fusce elementum erat ac sollicitudin iaculis. Aliquam erat volutpat. Praesent ut justo nibh. Pellentesque porta convallis cursus. Sed tempor leo nunc, eget varius enim vehicula eget Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptatum, modi ullam accusantium ab sapiente nihil fugit nisi, eos dolorem amet? Provident aliquam enim facere asperiores? Adipisci libero, nesciunt alias magni aliquid cupiditate dolores, architecto nobis ea voluptas accusantium nemo harum quos neque, quas doloribus! Nihil veniam vero ullam, dicta aut temporibus laborum provident aliquam ea perspiciatis reprehenderit nisi quos quam iste nulla eveniet veritatis totam ducimus et similique sit ut quibusdam. Quisquam ipsum similique architecto ratione blanditiis. Velit amet aspernatur nihil aliquam voluptatibus. Quis cumque, quaerat praesentium nam dicta aliquam perferendis sit. Quisquam ut suscipit aut, officiis numquam ducimus! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid repellendus provident eligendi aliquam quod cupiditate animi placeat soluta inventore ipsum. Ipsam magnam necessitatibus totam suscipit fugiat placeat perferendis animi autem magni tenetur et quam assumenda, ipsum molestiae quaerat delectus hic aspernatur, dolores aliquid earum at iste voluptate unde. Nesciunt molestias esse quis harum reiciendis. Consectetur maxime dicta voluptates modi iure!. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt veniam, omnis voluptatibus itaque optio repellendus doloremque recusandae voluptatem eligendi suscipit necessitatibus iure iste, possimus aliquam quod. Dolorem nam eos, incidunt adipisci, architecto deserunt nobis nostrum maxime voluptatum reprehenderit praesentium magnam obcaecati ipsam, perferendis et est delectus quaerat. Repudiandae, ipsam iure.
 </div>
 
 <div class="header" style="font-size:30px">
     Artikel Terkait
 </div>
-
 <ul class="nav scrolling-wrapper">
     <li>
         <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
@@ -38,7 +38,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis lacus nec neque laoreet, eu faucibus nulla bibendum. Pellentesque ac hendrerit ante. Morbi imperdiet nisl id massa tempus egestas. Duis metus arcu, molestie ac convallis sit amet, tristique.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/2" >
+            <a href="2" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -56,7 +56,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales urna felis, eget mollis nulla cursus vel. Nulla eu turpis sit amet tortor iaculis bibendum. Nunc auctor volutpat eros, egestas sodales erat mattis ac. Pellentesque faucibus mi faucibus, accumsan Lorem, ipsum dolor.. 
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/3" >
+            <a href="3" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -74,7 +74,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque turpis, porta quis auctor eget, volutpat luctus dui. Praesent ut laoreet augue, sit amet venenatis felis. In a pharetra quam, nec feugiat dui. Fusce maximus interdum rutrum. Phasellus. Lorem, ipsum.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/4" >
+            <a href="4" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -92,7 +92,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget varius dui, et sagittis tellus. Vivamus cursus quam at tellus congue, quis faucibus Suspendisse feugiat egestas dapibus. Aenean bibendum eget lacus vel Lorem, ipsum. lorem pharetra. Lorem ipsum dolor.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/5" >
+            <a href="5" >
                 Baca Selengkapnya
             </a>
             </span>

@@ -8,7 +8,7 @@
 <div style="font-family:Roboto;color:white;font-weight:bold;font-size:25px;float:left;padding-top:10px;padding-left:25px">
 Kategori yang dipilih : 
 </div>
-<form action="/category/covid">
+<form action="/category/ekonomi">
                 <button style="border:0;
                                 margin-top:10px;
                                 margin-left:25px;
@@ -22,7 +22,7 @@ Kategori yang dipilih :
                                 font-size:25px;
                                 font-weight:bold;">
                 
-                    Info Covid
+                    Ekonomi
                 
                 </button>
                 </form> 
@@ -33,16 +33,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="{{ asset('img/kopit.png') }}" width="175px">
-                        <h5>COVID-19 Hari Ini di Jatim, Kasus Aktif Terus Turun Hingga 90 Persen</h5>
-                        
+                        <img src="{{ asset('img/ekonomi1.jpg') }}" width="175px">
+                        <h5>Pertumbuhan Ekonomi Surabaya Lampaui Nasional</h5>
                     </center>
                     <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    Meski di tengah pandemi Covid-19, pada tahun 2021 pertumbuhan ekonomi Kota Surabaya, melampaui kinerja Jawa Timur dan bahkan Nasional. Peningkatan itu tercatat dari tahun 2020 terkontraksi minus 4,85 persen, kemudian melompat ke angka 4,29 persen pada... 
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis enim cum alias distinctio eligendi consectetur? Architecto quasi voluptatum maxim Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, rem libero nulla maxime officia odio Lorem ipsum dolor sit, amet. 
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/1" >
+                    <a href="ekonomi/1" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -52,17 +51,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2022/03/15/beda-pandemi-dengan-endemi-peralihan-transisi-yang-disiapkan-pemerintah_169.jpeg?w=700&q=90" width="200px">
-                        <h5>Jumlah COVID-19 Terus Bertambah, Yuk Vaksin Booster di 30 Lokasinya</h5>
+                        <img src="{{ asset('img/ekonomi2.jpg') }}" width="175px">
+                        <h5>Pertumbuhan Ekonomi Jatim Lebih Tinggi daripada Capaian Nasional</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">24-Juni-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    <div style="padding-bottom:5px">
-                    Menteri Koordinator Bidang Kemaritiman dan Investasi Luhut Binsar Panjaitan tengah mengkaji kemungkinan vaksin booster COVID-19 sebagai syarat perjalanan. Pasalnya, kasus COVID-19 di Indonesia terus mengalami kenaikan di bulan Juli.
-                    </div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis lacus nec neque laoreet, eu faucibus nulla bibendum. Pellentesque ac hendrerit ante. Morbi imperdiet nisl id massa tempus egestas. Duis metus arcu, molestie ac convallis sit amet, tristique.
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/2" >
+                    <a href="/category/ekonomi/2" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -72,15 +69,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2021/09/14/rs-lapangan-indrapura-rsli-2_43.jpeg?w=700&q=90" width="175px">
-                        <h5>BOR COVID-19 Rendah, 3 RS Lapangan di Jatim Resmi Tak Beroperasi</h5>
+                        <img src="{{ asset('img/ekonomi3.jpg') }}" width="175px">
+                        <h5>Kunci Keberlanjutan Pertumbuhan Ekonomi Jatim</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">4-July-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    Tiga rumah sakit lapangan di Jawa Timur yang sebelumnya masih aktif, resmi tidak beroperasi. 3 RS Lapangan itu yakni RS Darurat Lapangan Bangkalan, RS Darurat Lapangan Joglo Dungus Madiun dan Rumah Sakit Darurat...
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales urna felis, eget mollis nulla cursus vel. Nulla eu turpis sit amet tortor iaculis bibendum. Nunc auctor volutpat eros, egestas sodales erat mattis ac. Pellentesque faucibus mi faucibus, accumsan Lorem, ipsum dolor.. 
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/3" >
+                    <a href="ekonomi/3" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -90,17 +87,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2022/03/13/ilustrasi-virus-corona-covid-19_43.jpeg?w=700&q=90" width="175px">
-                        <h5>Kasus COVID-19 Jatim Naik, Satgas Minta Warga Lengkapi Vaksin</h5>
+                        <img src="{{ asset('img/ekonomi4.jpg') }}" width="175px">
+                        <h5>Semester I/2022, Realisasi Belanja APBN KPPN Malang Rp3,32 Triliun</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">24-Juni-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    
-                    Diketahui, kasus aktif COVID-19 di Jatim sebanyak 220. Terbanyak ada di Kota Surabaya sebanyak 96 kasus aktif, kemudian Sidoarjo 23 kasus aktif, lalu Jombang 15 kasus aktif.
-                    
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque turpis, porta quis auctor eget, volutpat luctus dui. Praesent ut laoreet augue, sit amet venenatis felis. In a pharetra quam, nec feugiat dui. Fusce maximus interdum rutrum. Phasellus. Lorem, ipsum.
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/4" >
+                    <a href="ekonomi/4" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -110,17 +105,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2021/12/28/jumlah-kasus-omicron-di-indonesia-ada-47-kasus-ini-3-faktanya_43.jpeg?w=700&q=90" width="175px">
-                        <h5>COVID-19 Kembali Merebak, Jatim Urutan ke-4 Terbanyak</h5>
+                        <img src="{{ asset('img/ekonomi5.jpg') }}" width="175px">
+                        <h5>Perekonomian Kota Surabaya Terbesar di Jawa Timur pada 2020</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">15-Juni-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    
-                    COVID-19 di Indonesia kembali merebak. Kasus positif kini bertambah sebanyak 1.242 hari ini, Rabu (15/6/2022). Dari 34 provinsi, Jawa Timur berada di urutan ke-4 terbanyak, yakni sebanyak 63 kasus positif.
-                    
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget varius dui, et sagittis tellus. Vivamus cursus quam at tellus congue, quis faucibus orci vestibulum. Suspendisse feugiat egestas dapibus. Aenean bibendum eget lacus vel Lorem, ipsum. lorem pharetra. Lorem ipsum dolor.
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/5" >
+                    <a href="ekonomi/5" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -130,17 +123,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2021/08/20/anggota-satgas-kuratif-covid-19-jatim-makhyan-jibril_169.jpeg?w=700&q=90" width="175px">
-                        <h5>Detail Jumlah Pertambahan Kasus Baru COVID-19 di Jatim Selama Sepekan</h5>
+                        <img src="{{ asset('img/ekonomi6.jpeg') }}" width="175px">
+                        <h5>Ekonomi Jatim Tumbuh 5,20 Persen Kuartal I – 2022, di Atas Pertumbuhan Nasional 5,01 Persen</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">15-Juni-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    
-                    Kasus COVID-19 Indonesia kembali naik. Jumlah kasus COVID-19 di Indonesia bertambah 1.242 kasus positif pada Rabu (15/6/2022). Sementara itu jumlah pasien sembuh bertambah 525, meninggal 8.
-                    
+                    Lorem ipsum elit. In id euismod mi. Suspendisse vitae elit facilisis, egestas mauris dignissim, gravida velit. Nunc lobortis massa dolor, sit amet viverra odio finibus sit amet. Ut consectetur tellus.
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/6" >
+                    <a href="ekonomi/6" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -150,17 +141,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2022/02/16/ppkm-jakarta-februari-2022_43.jpeg?w=700&q=90" width="175px">
-                        <h5>Pamekasan Masih PPKM Level 3, Kenapa?</h5>
+                        <img src="{{ asset('img/ekonomi7.jpg') }}" width="175px">
+                        <h5>25 Persen Ekonomi Jatim Berasal dari Surabaya, Ini Penyumbang PAD Terbesar</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">24-Mei-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    
-                    Pemerintah kembali memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM). Berdasarkan Inmendagri No 26-27 Tahun 2022, perpanjangan PPKM ini berlaku mulai hari ini, Selasa (24/5/2022) hingga 6 Juni 2022.
-                    
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod convallis libero, a mollis nulla fermentum a. Nunc sem magna, condimentum vitae mi eget, pulvinar ornare sem. Pellentesque ornare gravida massa sit amet pulvinar.
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/7" >
+                    <a href="ekonomi/7" >
                         Baca Selengkapnya
                     </a>
                     </span>
@@ -170,17 +159,15 @@ Kategori yang dipilih :
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="https://akcdn.detik.net.id/community/media/visual/2022/04/04/aturan-mudik-2022-boleh-tidak-tes-covid-19-asal_169.png?w=700&q=90" width="175px">
-                        <h5>PPKM Level 1-3 Diperpanjang, Simak Detail Lengkap di 38 Kab/Kota Jatim</h5>
+                        <img src="{{ asset('img/ekonomi2.jpg') }}" width="175px">
+                        <h5>Khofifah Bersyukur Ekonomi Jatim Tumbuh di Atas Nasional</h5>
                     </center>
-                    <p style="opacity: 75%; font-size:15px">24-Mei-2022</p>
+                    <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
                     <hr>
-                    
-                    Pemerintah kembali memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM). Berdasarkan Inmendagri Nomor 26 dan Nomor 27 Tahun 2022, perpanjangan PPKM mulai berlaku 24 Mei 2022 hingga 6 Juni 2022.
-                    
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in dignissim sem. Morbi porta at lectus sed iaculis. Fusce porta purus ac condimentum vitae semper rutrum. In et rhoncus risus, vel pretium orci. Nullam felis neque, mattis ac
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
-                    <a href="/category/covid/8" >
+                    <a href="ekonomi/8" >
                         Baca Selengkapnya
                     </a>
                     </span>

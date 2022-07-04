@@ -63,11 +63,10 @@
             }
             .search-button{
                 border-radius:30px; 
-                background-color:white;
-                padding:15px;
-                padding-left:25px;
-                width:50%;
-                margin-left:25%;
+                background-color:grey;
+                width:700px;
+                height:45px;
+                margin-left:27%;
             }
         </style>
     </head>

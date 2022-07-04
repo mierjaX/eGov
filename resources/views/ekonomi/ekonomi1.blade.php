@@ -6,39 +6,41 @@
 </a>
 <br><br><br>
 <div class="header">
-    Unesa Raih Rekor MURI Kerja Sama Terbanyak dengan 837 SMK se-Jatim
+    Pertumbuhan Ekonomi Surabaya Lampaui Nasional
     <p style="opacity: 75%; font-size:15px; margin-left:3px">31-Mei-2022</p>
 </div>
-
-<div style="margin-left:55px; margin-bottom: 20px; margin-top:50px; color:white;">
-    <img src="{{ asset('img/terkini2.jpeg') }}" width="500px">
-        <br>
-        Unesa raih Rekor MURI (Foto: Esti Widiyana/detikcom)
+<div style="margin-left:40px; margin-bottom: 20px; margin-top:50px; color:white">
+    <img src="{{ asset('img/ekonomi1.jpg') }}" width="500px">
+    <br>
+    Wali Kota Surabaya Eri Cahyadi saat meresmikan Surabaya Kriya Gallery (SKG)
 </div>
 <div class="container">
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis sem sit amet maximus tristique. Phasellus vitae malesuada purus. Suspendisse vel ullamcorper leo. Integer rutrum dui a ante gravida porta. Sed tellus erat, rhoncus et odio condimentum, rhoncus placerat sem. Fusce sed semper orci, eu lacinia enim. Maecenas ut dui et turpis venenatis mattis a ac felis. Nunc non iaculis magna. Nulla eget leo eu nulla egestas egestas. Phasellus eu maximus metus.    <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae hic, voluptate voluptatibus sapiente maiores totam cum iste, doloribus neque amet repudiandae ullam animi fugit asperiores laudantium eum sit sequi! Nam sed voluptatum autem corrupti numquam quas odit. 
     <br>
-    Cras porttitor orci et ante porttitor, sit amet vestibulum libero rutrum. Etiam viverra risus vel imperdiet semper. Nullam in orci euismod, cursus diam non, pharetra felis. Quisque blandit iaculis justo, sed bibendum tellus tristique sed. Quisque in mi justo. Praesent nunc ligula, interdum sit amet augue id, cursus pretium nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In hac habitasse platea dictumst. Donec convallis non lectus id laoreet. Vestibulum non erat et eros posuere mollis. Vivamus commodo malesuada turpis a facilisis. Aenean auctor nisl lectus, vitae placerat ligula fringilla vitae. Quisque quis elit nec dolor laoreet tincidunt. Integer laoreet, dolor a maximus luctus, purus nisi blandit ligula, ac aliquet velit metus ut sapien. Nulla gravida consequat velit, fringilla euismod diam finibus eget. Ut feugiat felis eu molestie lobortis.
+    <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae iure possimus distinctio! Reprehenderit a, laudantium dignissimos aliquam, dolorum nisi iusto in magnam deleniti quibusdam sit natus, repellat veniam quo nam? Quam voluptate explicabo, qui praesentium aliquid alias sapiente odio laborum necessitatibus ex dolorum deserunt corrupti. Est commodi ratione explicabo vero repellat, quidem odit unde! Iure magnam autem, aliquid facilis possimus ipsam nesciunt deserunt laudantium iusto fuga repellendus sit maiores, id porro dicta, harum odio ut repudiandae dolorum eos voluptate. Eaque ex aperiam totam! Repudiandae vitae, omnis molestias, ut alias nam iure dolores soluta, laborum tempora ipsam porro! Quis cumque dolor voluptas quae autem dignissimos perspiciatis perferendis repudiandae nostrum provident ad laborum, sequi praesentium debitis aliquid nobis nisi, corrupti maiores? Ratione distinctio ad cum explicabo quam autem consectetur suscipit voluptatum inventore, sint quae quo, veniam quia ex repellendus, corrupti sequi aliquam a! Nostrum laudantium eum ducimus quaerat similique ratione repellat? Quaerat blanditiis, officiis nulla cumque rem vitae esse, totam sunt alias autem pariatur? Hic amet, reiciendis porro reprehenderit tempora, placeat explicabo voluptas fugiat ducimus, blanditiis inventore ipsam totam odit temporibus! Consequuntur distinctio, vel architecto nisi autem in explicabo praesentium! Minima quisquam eum voluptates, odio blanditiis facere magnam ad minus nostrum amet!
+    
 </div>
 
 <div class="header" style="font-size:30px">
     Artikel Terkait
 </div>
 
-<ul class="nav scrolling-wrapper">
+
+<ul class="nav">
     <li>
         <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/pendidikan2.jpeg') }}" width="175px">
-                <h5>Kinerja Pendidikan Jawa Timur Tertinggi di Indonesia</h5>
+                <img src="{{ asset('img/ekonomi2.jpg') }}" width="175px">
+                <h5>Pertumbuhan Ekonomi Jatim Lebih Tinggi daripada Capaian Nasional</h5>
             </center>
             <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
             <hr>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis lacus nec neque laoreet, eu faucibus nulla bibendum. Pellentesque ac hendrerit ante. Morbi imperdiet nisl id massa tempus egestas. Duis metus arcu, molestie ac convallis sit amet, tristique.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/2" >
+            <a href="2" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -48,15 +50,15 @@
     <li>
         <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/pendidikan3.jpg') }}" width="175px">
-                <h5>Khofifah Minta Sekolah Tak Wajibkan Siswa Ikut PTM Terbatas</h5>
+                <img src="{{ asset('img/ekonomi3.jpg') }}" width="175px">
+                <h5>Kunci Keberlanjutan Pertumbuhan Ekonomi Jatim</h5>
             </center>
             <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
             <hr>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales urna felis, eget mollis nulla cursus vel. Nulla eu turpis sit amet tortor iaculis bibendum. Nunc auctor volutpat eros, egestas sodales erat mattis ac. Pellentesque faucibus mi faucibus, accumsan Lorem, ipsum dolor.. 
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/3" >
+            <a href="3" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -66,15 +68,15 @@
     <li>
         <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/pendidikan4.jpg') }}" width="175px">
-                <h5>Pemprov Jatim Imbau Sekolah di Wilayah PPKM Level 2 Terapkan PTM 50 Persen</h5>
+                <img src="{{ asset('img/ekonomi4.jpg') }}" width="175px">
+                <h5>Semester I/2022, Realisasi Belanja APBN KPPN Malang Rp3,32 Triliun</h5>
             </center>
             <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
             <hr>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque turpis, porta quis auctor eget, volutpat luctus dui. Praesent ut laoreet augue, sit amet venenatis felis. In a pharetra quam, nec feugiat dui. Fusce maximus interdum rutrum. Phasellus. Lorem, ipsum.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/4" >
+            <a href="4" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -84,20 +86,21 @@
     <li>
         <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/pendidikan5.jpg') }}" width="175px">
-                <h5>Kapan Masuk Sekolah Tahun Ajaran Baru 2022/2023 Wilayah Jawa Tengah, Jawa Timur, dan Jawa Barat</h5>
+                <img src="{{ asset('img/ekonomi5.jpg') }}" width="175px">
+                <h5>Perekonomian Kota Surabaya Terbesar di Jawa Timur pada 2020</h5>
             </center>
             <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
             <hr>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget varius dui, et sagittis tellus. Vivamus cursus quam at tellus congue, quis faucibus Suspendisse feugiat egestas dapibus. Aenean bibendum eget lacus vel Lorem, ipsum. lorem pharetra. Lorem ipsum dolor.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget varius dui, et sagittis tellus. Vivamus cursus quam at tellus congue, quis faucibus orci vestibulum. Suspendisse feugiat egestas dapibus. Aenean bibendum eget lacus vel Lorem, ipsum. lorem pharetra. Lorem ipsum dolor.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/pendidikan/5" >
+            <a href="5" >
                 Baca Selengkapnya
             </a>
             </span>
         <br>
         </div>
-    </li>
+    </li>           
+
 </ul>
 @endsection

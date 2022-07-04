@@ -29,72 +29,86 @@
 
 <ul class="nav scrolling-wrapper">
     <li>
-        <div style="margin:35px;height:600px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
+        <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/terkini1.jpg') }}" width="175px" height="120px">
-                <br><br>
-                <h4>Langkah Pemprov Jatim Atasi Gelombang Ketiga Covid-19</h4>
+                <img src="https://asset.kompas.com/crops/xsJuj60lMtTJkV4vcAMSkZ1Mllk=/0x0:1184x789/490x326/data/photo/2020/05/01/5eab1979bd594.jpg" width="175px">
+                <h5>Daftar Moda Transportasi yang Beroperasi di Jatim Mulai 10 Mei 2020</h5>
             </center>
-            <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
+            <p style="opacity: 75%; font-size:15px">24-Juni-2022</p>
             <hr>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at nisi interdum, imperdiet arcu ut, cursus lorem. Aenean vitae aliquam nulla, at pulvinar ex. Nulla dignissim mi justo, vitae aliquet augue luctus eget. In sit amet ipsum vel... 
-            <br><br>
+            <div style="padding-bottom:5px">
+            Sejumlah moda transportasi di Jawa Timur akan difungsikan kembali menyusul Surat Edaran (SE) Nomor 4 Tahun 2020 tentang Kriteria Pembatasan Perjalanan Orang Dalam Rangka Percepatan Penanganan Covid-19.
+            </div>
+        <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-                <a href="/t1">Baca Selengkapnya</a>
+            <a href="/category/transportasi/2" >
+                Baca Selengkapnya
+            </a>
             </span>
         <br>
         </div>
     </li>
     <li>
-        <div style="margin:35px;height:600px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
+        <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/terkini1.jpg') }}" width="175px" height="120px">
-                <br><br>
-                <h4>Langkah Pemprov Jatim Atasi Gelombang Ketiga Covid-19</h4>
+                <img src="https://akcdn.detik.net.id/community/media/visual/2019/06/21/cf851ac7-7660-4da8-b0e3-37d4e9edb4e5_169.jpeg?w=700&q=90" width="175px">
+                <h5>Rencana Besar Surabaya Mengembangkan Transportasi Publik Andalan</h5>
             </center>
             <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
             <hr>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at nisi interdum, imperdiet arcu ut, cursus lorem. Aenean vitae aliquam nulla, at pulvinar ex. Nulla dignissim mi justo, vitae aliquet augue luctus eget. In sit amet ipsum vel... 
-            <br><br>
+            
+            Kota Surabaya telah memasuki usia 729 tahun. Seluruh aspek di Kota Pahlawan terus berbenah untuk memberi kado terbaik bagi warga Surabaya. Salah satunya, Surabaya memiliki PR besar di sektor transportasi.
+            
+        <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-                <a href="/t1">Baca Selengkapnya</a>
+            <a href="/category/transportasi/6" >
+                Baca Selengkapnya
+            </a>
             </span>
         <br>
         </div>
     </li>
     <li>
-        <div style="margin:35px;height:600px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
+        <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/terkini1.jpg') }}" width="175px" height="120px">
-                <br><br>
-                <h4>Langkah Pemprov Jatim Atasi Gelombang Ketiga Covid-19</h4>
+                <img src="https://cdn-2.tstatic.net/surabaya/foto/bank/images/bus-trans-semanggi-suroboyo-hab.jpg" width="175px">
+                <h5>37 Feeder Didatangkan Tahun Ini, Layani Transportasi Antarkampung di Surabaya</h5>
             </center>
-            <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
+            <p style="opacity: 75%; font-size:15px">6-April-2022</p>
             <hr>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at nisi interdum, imperdiet arcu ut, cursus lorem. Aenean vitae aliquam nulla, at pulvinar ex. Nulla dignissim mi justo, vitae aliquet augue luctus eget. In sit amet ipsum vel... 
-            <br><br>
+            Proyek pengadaan kendaraan pengumpan atau feeder mulai dikebut tahun ini. Harapannya, kendaraan ini bisa menjadi penghubung masyarakat dari perkampungan dengan halte bus terdekat.
+            
+        <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-                <a href="/t1">Baca Selengkapnya</a>
+            <a href="/category/transportasi/7" >
+                Baca Selengkapnya
+            </a>
             </span>
         <br>
         </div>
     </li>
     <li>
-        <div style="margin:35px;height:600px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
+        <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
             <center>
-                <img src="{{ asset('img/terkini1.jpg') }}" width="175px" height="120px">
-                <br><br>
-                <h4>Langkah Pemprov Jatim Atasi Gelombang Ketiga Covid-19</h4>
+                <img src="https://cdn-2.tstatic.net/surabaya/foto/bank/images/wakil-ketua-dprd-surabaya-reni-astuti-suroboyo-bus.jpg" width="175px">
+                <h5>Dewan Sebut Perlu Supporting Sistem Transportasi Massal untuk Atasi Kemacetan Surabaya</h5>
             </center>
-            <p style="opacity: 75%; font-size:15px">31-Mei-2022</p>
+            <p style="opacity: 75%; font-size:15px">6-Juni-2022</p>
             <hr>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at nisi interdum, imperdiet arcu ut, cursus lorem. Aenean vitae aliquam nulla, at pulvinar ex. Nulla dignissim mi justo, vitae aliquet augue luctus eget. In sit amet ipsum vel... 
-            <br><br>
+            
+            Kemacetan di seluruh wilayah Kota Surabaya harus dicarikan solusi bersama.
+
+Transportasi masal menjadi solusi yang tidak bisa ditawar.
+
+Tidak hanya unit kendaraan umum, tapi dukungan sistem transpotasi.
+        <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-                <a href="/t1">Baca Selengkapnya</a>
+            <a href="/category/transportasi/8" >
+                Baca Selengkapnya
+            </a>
             </span>
         <br>
         </div>
-    </li> 
+    </li>
 </ul>
 @endsection

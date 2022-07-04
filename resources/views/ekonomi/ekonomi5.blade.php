@@ -6,20 +6,21 @@
 </a>
 <br><br><br>
 <div class="header">
-    Harga Cabai Rawit Makin 'Pedas', Wagub Emil Beberkan Penyebabnya
-    <p style="opacity: 75%; font-size:15px; margin-left:3px">16-Juni-2022</p>
+    Perekonomian Kota Surabaya Terbesar di Jawa Timur pada 2020
+    <p style="opacity: 75%; font-size:15px; margin-left:3px">31-Mei-2022</p>
 </div>
 
 <div style="margin-left:55px; margin-bottom: 20px; margin-top:50px; color:white;">
-    <img src="{{ asset('img/terkini3.jpeg') }}" width="500px">
+    <img src="{{ asset('img/ekonomi5.jpg') }}" width="500px">
         <br>
-        Ilustrasi cabai rawit. (Foto: Esti Widiyana/detikJatim)
+        Wakil Gubernur Provinsi Jawa Timur masa jabatan 2019-2024 
 </div>
 <div class="container">
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et blandit nibh. Aenean ante risus, bibendum eu sem sodales, ultricies tempor est. Praesent at leo venenatis, dictum quam sit amet, convallis diam. Aenean tincidunt enim sed dapibus porta. Sed arcu nulla, imperdiet sit amet elit in, pharetra sollicitudin nunc. Nullam non quam nec purus eleifend venenatis eu vitae purus. Nullam condimentum orci eget est rhoncus rhoncus eu pharetra eros. Proin ac mi vel mi rutrum vestibulum. Etiam commodo ex turpis, quis finibus metus tempus vitae. Donec id velit ligula. Pellentesque pretium mattis rutrum. In porttitor, leo id sagittis lacinia, risus tellus ullamcorper justo, pellentesque placerat nunc enim id ante. Donec nibh odio, tincidunt at placerat ac, congue id felis. Vestibulum eleifend interdum metus non volutpat. Duis tincidunt mollis lacus, in ullamcorper magna tempus vel. Morbi ut massa a lectus mattis mattis. Donec pulvinar nibh ut sapien porta luctus. Aliquam sit amet finibus ex. Fusce elit augue, posuere non condimentum lacinia, posuere at elit. Cras ac ultrices felis. Sed id lorem nunc.   <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique mattis molestie. Aenean interdum ante nec lobortis finibus. Curabitur dictum ullamcorper dignissim. Quisque sed cursus erat, non imperdiet est. Vestibulum et libero ornare, molestie ligula et, vehicula nulla. Nulla facilisi. In at nulla sit amet nibh elementum tempor. Aliquam vel tortor purus. Ut mauris est, ornare vel egestas eget, aliquam quis diam. Nulla metus magna, fermentum ac luctus eget, volutpat quis urna. Nam vehicula elit eu ligula cursus molestie. Mauris sit amet odio convallis, lobortis orci quis, volutpat justo. Praesent nec odio erat. In hendrerit nunc libero, nec vulputate mauris ullamcorper nec. Aliquam sodales mi eget felis suscipit, in maximus mi dignissim. Suspendisse id euismod libero, at iaculis mauris.
     <br>
-    Quisque vel hendrerit libero. Etiam malesuada risus ultricies ipsum venenatis iaculis. Nullam dictum leo eget est dignissim, sit amet tempor nisl maximus. Donec at hendrerit orci. Etiam volutpat erat et urna placerat placerat. Pellentesque vitae pulvinar enim, nec elementum turpis. Phasellus vel dolor nec ligula molestie eleifend. Aliquam at vestibulum lacus.
+    <br>
+    Aliquam nec tortor quis orci commodo cursus. Ut tristique ultricies justo. Praesent suscipit turpis in nisi laoreet interdum. Fusce elementum erat ac sollicitudin iaculis. Aliquam erat volutpat. Praesent ut justo nibh. Pellentesque porta convallis cursus. Sed tempor leo nunc, eget varius enim vehicula eget Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptatum, modi ullam accusantium ab sapiente nihil fugit nisi, eos dolorem amet? Provident aliquam enim facere asperiores? Adipisci libero, nesciunt alias magni aliquid cupiditate dolores, architecto nobis ea voluptas accusantium nemo harum quos neque, quas doloribus! Nihil veniam vero ullam, dicta aut temporibus laborum provident aliquam ea perspiciatis reprehenderit nisi quos quam iste nulla eveniet veritatis totam ducimus et similique sit ut quibusdam. Quisquam ipsum similique architecto ratione blanditiis. Velit amet aspernatur nihil aliquam voluptatibus. Quis cumque, quaerat praesentium nam dicta aliquam perferendis sit. Quisquam ut suscipit aut, officiis numquam ducimus! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid repellendus provident eligendi aliquam quod cupiditate animi placeat soluta inventore ipsum. Ipsam magnam necessitatibus totam suscipit fugiat placeat perferendis animi autem magni tenetur et quam assumenda, ipsum molestiae quaerat delectus hic aspernatur, dolores aliquid earum at iste voluptate unde. Nesciunt molestias esse quis harum reiciendis. Consectetur maxime dicta voluptates modi iure!.
 </div>
 
 <div class="header" style="font-size:30px">
@@ -39,7 +40,7 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis enim cum alias distinctio eligendi consectetur? Architecto quasi voluptatum maxim Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, rem libero nulla maxime officia odio Lorem ipsum dolor sit, amet. 
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/ekonomi/1" >
+            <a href="1" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -57,7 +58,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis lacus nec neque laoreet, eu faucibus nulla bibendum. Pellentesque ac hendrerit ante. Morbi imperdiet nisl id massa tempus egestas. Duis metus arcu, molestie ac convallis sit amet, tristique.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/ekonomi/2" >
+            <a href="2" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -75,7 +76,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales urna felis, eget mollis nulla cursus vel. Nulla eu turpis sit amet tortor iaculis bibendum. Nunc auctor volutpat eros, egestas sodales erat mattis ac. Pellentesque faucibus mi faucibus, accumsan Lorem, ipsum dolor.. 
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/ekonomi/3" >
+            <a href="3" >
                 Baca Selengkapnya
             </a>
             </span>
@@ -93,7 +94,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque turpis, porta quis auctor eget, volutpat luctus dui. Praesent ut laoreet augue, sit amet venenatis felis. In a pharetra quam, nec feugiat dui. Fusce maximus interdum rutrum. Phasellus. Lorem, ipsum.
         <br>
             <span style="float:right;opacity:55%;text-decoration:underline">
-            <a href="category/ekonomi/4" >
+            <a href="4" >
                 Baca Selengkapnya
             </a>
             </span>
