@@ -32,3 +32,19 @@ Route::get('/category/covid',function(){
 Route::get('/notfound',function(){
     return view('notfound');
 });
+
+Route::get('/t1',function(){
+    return view('info_terkini/terkini1');
+});
+
+Route::get('/t2',function(){
+    return view('info_terkini/terkini2');
+});
+
+Route::get('/t3',function(){
+    return view('info_terkini/terkini3');
+});
+
+Route::get('/t4',function(){
+    return view('info_terkini/terkini4');
+});
