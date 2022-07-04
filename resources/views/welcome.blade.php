@@ -54,11 +54,12 @@
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="{{ asset('img/ekonomi.jpg') }}" width="175px">
-                        <h3>Pertumbuhan Ekonomi Surabaya</h3>
+                        <img src="{{ asset('img/khofifah emil sholat.jpeg') }}" width="175px">
+                        <br><br>
+                        <h4>Gubernur Khofifah dan Wagub Emil Sholat Idul Fitri 1443 Hijriyah di Masjid Al Akbar Surabaya</h4>
                     </center>
                     <hr><br>
-                    Meski di tengah pandemi Covid-19, pada tahun 2021 pertumbuhan ekonomi Kota Surabaya, melampaui kinerja Jawa Timur dan bahkan Nasional. Peningkatan itu tercatat dari tahun 2020 terkontraksi minus 4,85 persen, kemudian melompat ke angka 4,29 persen pada... 
+                    Jatim Newsroom - Gubernur Jawa Timur, Khofifah Indar Parawansa dan Wakil Gubernur Jatim Emil Elestianto Dardak bersama Forkopimda Jatim, melaksanakan Sholat Idul Fitri 1443 Hijriyah di Masjid Nasional Al-Akbar Surabaya, Senin (2/5/2022) pagi... 
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
                         Baca Selengkapnya
@@ -69,11 +70,12 @@
             <li>
                 <div style="margin:35px;width:300px;background-color:white;border-radius:20px;padding:20px;text-align:left;color:black;text-decoration: none;box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                     <center>
-                        <img src="{{ asset('img/ekonomi.jpg') }}" width="175px">
-                        <h3>Pertumbuhan Ekonomi Surabaya</h3>
+                        <img src="{{ asset('img/ketupat mayday.jpeg') }}" width="175px">
+                        <br><br>
+                        <h4>'Ketupat Mayday' Jadi Momentum Peringatan Hari Buruh di Surabaya</h4><br>
                     </center>
                     <hr><br>
-                    Meski di tengah pandemi Covid-19, pada tahun 2021 pertumbuhan ekonomi Kota Surabaya, melampaui kinerja Jawa Timur dan bahkan Nasional. Peningkatan itu tercatat dari tahun 2020 terkontraksi minus 4,85 persen, kemudian melompat ke angka 4,29 persen pada... 
+                    Jatim Newsroom- Bertepatan dengan malam Takbiran 1 Syawal 1443 Hijriyah sekaligus Hari Buruh Internasional yang jatuh setiap tanggal 1 Mei 2022 digelar kegiatan syukuran dan doa bersama bertajuk 'Ketupat Mayday' yang dilangsungkan di Masjid... 
                 <br>
                     <span style="float:right;opacity:55%;text-decoration:underline">
                         Baca Selengkapnya
